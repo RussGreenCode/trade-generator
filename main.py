@@ -2,6 +2,7 @@ import csv
 import random
 from datetime import datetime, timedelta
 
+
 def read_trades_from_file(filename):
     """
     Reads in the existing trades from a CSV file and returns them as a list of dictionaries.
@@ -70,6 +71,7 @@ def generate_random_trades(stocks, num_trades, start_date, end_date):
 
     return trades
 
+
 def assign_accounts_to_trades(trades, account_names):
     """
     Assigns account names to the list of trades in a round-robin fashion.
@@ -112,7 +114,7 @@ def main():
                      "Investment Account 10"]
 
     # Read in the existing trades from a CSV file
-    existing_trades = read_trades_from_file('sample_trades.csv')
+    existing_trades = read_trades_from_file('initial_trades.csv')
 
     # Generate additional trades for each account
     trades = generate_random_trades(stocks, num_trades, start_date, end_date)
@@ -123,3 +125,6 @@ def main():
 
     # Write all the trades to a new CSV file
     write_trades_to_file(trades, 'all_trades.csv')
+
+
+main()

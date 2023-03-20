@@ -1,0 +1,29 @@
+Symbol,Quantity,Order Type,Price,Time in Force,Account,Commission,Settlement Date,Order Status,Execution Price,Trade Date
+ORCL,50,Limit,102.30,Day,Investment Account 1,9.99,2023-02-23,Filled,102.30,2023-02-21
+IBM,100,Market,145.25,Fill or Kill,Investment Account 1,12.99,2023-02-23,Filled,145.25,2023-02-21
+TSLA,25,Stop Loss,1095.00,Good till Cancelled,Investment Account 1,9.99,2023-02-23,Partially Filled,1095.00,2023-02-21
+LPL,200,Limit,38.50,Day,Investment Account 1,9.99,2023-02-23,Filled,38.50,2023-02-21
+SAP,75,Market,125.80,Immediate or Cancel,Investment Account 1,12.99,2023-02-23,Filled,125.80,2023-02-21
+IBM,150,Limit,144.75,Day,Investment Account 1,9.99,2023-02-23,Filled,144.75,2023-02-21
+ORCL,25,Market,103.50,Fill or Kill,Investment Account 1,12.99,2023-02-23,Filled,103.50,2023-02-21
+LPL,100,Stop Loss,36.00,Good till Cancelled,Investment Account 1,9.99,2023-02-23,Partially Filled,36.00,2023-02-21
+TSLA,10,Limit,1125.00,Day,Investment Account 1,9.99,2023-02-23,Filled,1125.00,2023-02-21
+SAP,50,Market,127.50,Immediate or Cancel,Investment Account 1,12.99,2023-02-23,Filled,127.50,2023-02-21
+IBM,75,Market,144.80,Fill or Kill,Investment Account 1,9.99,2023-02-23,Filled,144.80,2023-02-21
+LPL,50,Limit,37.20,Day,Investment Account 1,9.99,2023-02-23,Filled,37.20,2023-02-21
+ORCL,100,Stop Loss,101.75,Good till Cancelled,Investment Account 1,12.99,2023-02-23,Filled,101.75,2023-02-21
+SAP,25,Market,126.00,Immediate or Cancel,Investment Account 1,9.99,2023-02-23,Filled,126.00,2023-02-21
+TSLA,5,Limit,1130.00,Day,Investment Account 1,12.99,2023-02-23,Filled,1130.00,2023-02-21
+AAPL,50,Limit,170.00,Day,Investment Account 2,9.99,2023-02-23,Filled,170.00,2023-02-21
+GOOG,25,Market,2400.50,Immediate or Cancel,Investment Account 2,12.99,2023-02-23,Filled,2400.50,2023-02-21
+AMZN,10,Stop Loss,3150.00,Good till Cancelled,Investment Account 2,9.99,2023-02-23,Partially Filled,3150.00,2023-02-21
+AAPL,25,Market,175.00,Fill or Kill,Investment Account 2,9.99,2023-02-23,Filled,175.00,2023-02-21
+GOOG,50,Limit,2405.50,Day,Investment Account 2,9.99,2023-02-23,Filled,2405.50,2023-02-21
+AMZN,5,Market,3199.00,Immediate or Cancel,Investment Account 2,12.99,2023-02-23,Filled,3199.00,2023-02-21
+AAPL,75,Market,177.50,Fill or Kill,Investment Account 2,9.99,2023-02-23,Filled,177.50,2023-02-21
+GOOG,100,Stop Loss,2380.00,Good till Cancelled,Investment Account 2,9.99,2023-02-23,Partially Filled,2380.00,2023-02-21
+AMZN,15,Limit,3175.00,Day,Investment Account 2,12.99,2023-02-23,Filled,3175.00,2023-02-21
+AAPL,100,Limit,172.50,Day,Investment Account 2,9.99,2023-02-23,Filled,172.50,2023-02-21
+GOOG,75,Market,2398.50,Immediate or Cancel,Investment Account 2,9.99,2023-02-23,Filled,2398.50,2023-02-21
+AMZN,20,Stop Loss,3160.00,Good till Cancelled,Investment Account 2,12.99,2023-02-23,Partially Filled,3160.00,2023-02-21
+AAPL,50,Market,178.50,Fill or Kill,Investment Account 2,9.99,2023-02-23,Filled,178.50,2023-02-21

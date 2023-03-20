@@ -1,0 +1,129 @@
+Symbol,Quantity,Order Type,Price,Time in Force,Account,Commission,Settlement Date,Order Status,Execution Price,Trade Date
+AMZN,99,Market,202.99,Day,Investment Account 1,19.96,2023-02-06,Partially Filled,198.31,2023-02-23
+ORCL,16,Stop Loss,127.97,Day,Investment Account 2,11.21,2023-02-06,Pending,124.46,2023-02-27
+IBM,17,Limit,102.84,Day,Investment Account 3,6.91,2023-02-03,Pending,104.33,2023-02-21
+TSLA,96,Limit,1327.87,Day,Investment Account 4,6.94,2023-02-05,Partially Filled,1386.56,2023-02-21
+TSLA,85,Stop Loss,1048.97,Fill or Kill,Investment Account 5,17.38,2023-02-05,Pending,1188.96,2023-02-08
+SAP,93,Stop Loss,82.59,Fill or Kill,Investment Account 6,8.0,2023-02-05,Partially Filled,104.6,2023-02-10
+IBM,14,Limit,45.18,Good till Cancelled,Investment Account 7,19.82,2023-02-06,Partially Filled,48.7,2023-02-06
+TSLA,46,Limit,1013.38,Fill or Kill,Investment Account 8,6.31,2023-02-06,Partially Filled,1411.17,2023-02-24
+AMZN,13,Stop Loss,241.74,Day,Investment Account 9,7.78,2023-02-05,Pending,185.92,2023-02-27
+TSLA,9,Stop Loss,1393.05,Good till Cancelled,Investment Account 10,19.69,2023-02-06,Partially Filled,1356.21,2023-02-02
+SAP,81,Limit,36.81,Day,Investment Account 1,5.41,2023-02-06,Pending,72.6,2023-02-19
+SAP,68,Stop Loss,82.75,Good till Cancelled,Investment Account 2,8.01,2023-02-04,Pending,120.04,2023-02-23
+TSLA,36,Stop Loss,1317.06,Good till Cancelled,Investment Account 3,9.78,2023-02-03,Filled,1384.23,2023-02-24
+IBM,33,Limit,80.48,Fill or Kill,Investment Account 4,10.43,2023-02-04,Pending,155.04,2023-02-17
+SAP,8,Limit,85.17,Fill or Kill,Investment Account 5,14.05,2023-02-04,Partially Filled,155.17,2023-02-02
+IBM,16,Stop Loss,109.32,Fill or Kill,Investment Account 6,5.32,2023-02-06,Partially Filled,147.48,2023-02-04
+ORCL,3,Market,83.23,Fill or Kill,Investment Account 7,5.61,2023-02-03,Filled,104.58,2023-02-22
+IBM,11,Limit,69.44,Good till Cancelled,Investment Account 8,8.86,2023-02-03,Filled,86.84,2023-02-22
+AMZN,91,Stop Loss,192.35,Fill or Kill,Investment Account 9,9.87,2023-02-06,Partially Filled,185.89,2023-02-09
+TSLA,44,Limit,1133.14,Fill or Kill,Investment Account 10,6.26,2023-02-06,Pending,1226.4,2023-02-15
+IBM,69,Stop Loss,97.02,Day,Investment Account 1,7.58,2023-02-05,Filled,35.46,2023-02-07
+ORCL,7,Market,123.98,Fill or Kill,Investment Account 2,6.86,2023-02-05,Filled,50.37,2023-02-06
+ORCL,77,Stop Loss,66.82,Good till Cancelled,Investment Account 3,14.08,2023-02-05,Partially Filled,58.01,2023-02-08
+IBM,42,Market,138.56,Fill or Kill,Investment Account 4,6.27,2023-02-03,Partially Filled,88.58,2023-02-25
+LPL,8,Market,122.28,Good till Cancelled,Investment Account 5,14.28,2023-02-06,Pending,118.81,2023-02-07
+ORCL,93,Limit,128.85,Day,Investment Account 6,12.8,2023-02-06,Filled,61.14,2023-02-19
+GOOG,88,Limit,97.97,Day,Investment Account 7,15.03,2023-02-04,Pending,122.18,2023-02-28
+ORCL,31,Market,114.35,Fill or Kill,Investment Account 8,6.87,2023-02-03,Partially Filled,59.98,2023-02-19
+SAP,54,Stop Loss,124.9,Day,Investment Account 9,14.44,2023-02-03,Partially Filled,44.84,2023-02-14
+TSLA,91,Stop Loss,1454.07,Fill or Kill,Investment Account 10,19.17,2023-02-05,Partially Filled,1181.42,2023-02-22
+ORCL,23,Market,51.67,Day,Investment Account 1,18.17,2023-02-05,Partially Filled,28.1,2023-02-14
+GOOG,74,Market,122.32,Good till Cancelled,Investment Account 2,16.58,2023-02-05,Filled,42.71,2023-02-28
+AMZN,20,Market,198.43,Fill or Kill,Investment Account 3,11.36,2023-02-04,Partially Filled,178.64,2023-02-05
+TSLA,76,Limit,1279.54,Day,Investment Account 4,13.97,2023-02-04,Pending,1164.57,2023-02-10
+TSLA,84,Market,1022.4,Day,Investment Account 5,15.77,2023-02-06,Pending,1202.18,2023-02-10
+AMZN,47,Market,207.44,Day,Investment Account 6,7.77,2023-02-05,Pending,189.45,2023-02-16
+SAP,19,Stop Loss,141.71,Fill or Kill,Investment Account 7,10.51,2023-02-03,Pending,106.9,2023-02-05
+TSLA,85,Limit,1005.47,Good till Cancelled,Investment Account 8,14.51,2023-02-06,Filled,1289.72,2023-02-05
+TSLA,13,Limit,1303.05,Good till Cancelled,Investment Account 9,12.92,2023-02-04,Filled,1195.17,2023-02-01
+GOOG,61,Limit,69.32,Day,Investment Account 10,19.0,2023-02-06,Pending,108.31,2023-02-02
+LPL,98,Limit,60.28,Good till Cancelled,Investment Account 1,19.58,2023-02-05,Pending,143.13,2023-02-09
+AMZN,25,Market,159.63,Fill or Kill,Investment Account 2,18.35,2023-02-04,Partially Filled,133.26,2023-02-03
+AMZN,54,Stop Loss,176.55,Fill or Kill,Investment Account 3,11.14,2023-02-05,Filled,163.61,2023-02-15
+AAPL,84,Stop Loss,244.65,Day,Investment Account 4,15.28,2023-02-06,Filled,136.99,2023-02-24
+AAPL,95,Stop Loss,219.47,Day,Investment Account 5,12.88,2023-02-04,Filled,157.52,2023-02-26
+GOOG,8,Stop Loss,57.07,Day,Investment Account 6,9.51,2023-02-06,Filled,61.7,2023-02-04
+AAPL,83,Limit,249.23,Day,Investment Account 7,14.01,2023-02-03,Filled,142.11,2023-02-13
+TSLA,46,Limit,1476.87,Good till Cancelled,Investment Account 8,7.55,2023-02-05,Pending,1261.84,2023-02-20
+ORCL,22,Stop Loss,75.88,Fill or Kill,Investment Account 9,14.9,2023-02-05,Filled,65.1,2023-02-18
+GOOG,74,Stop Loss,105.86,Day,Investment Account 10,16.51,2023-02-03,Partially Filled,54.24,2023-02-26
+SAP,33,Market,143.96,Fill or Kill,Investment Account 1,10.36,2023-02-05,Pending,107.19,2023-02-06
+TSLA,85,Market,1223.92,Good till Cancelled,Investment Account 2,11.5,2023-02-06,Partially Filled,1464.66,2023-02-23
+TSLA,14,Market,1163.07,Fill or Kill,Investment Account 3,10.37,2023-02-05,Partially Filled,1401.76,2023-02-23
+AMZN,11,Limit,220.83,Fill or Kill,Investment Account 4,14.94,2023-02-05,Pending,194.52,2023-02-25
+TSLA,3,Limit,1263.9,Fill or Kill,Investment Account 5,6.89,2023-02-03,Partially Filled,1351.21,2023-02-05
+AAPL,30,Market,237.63,Good till Cancelled,Investment Account 6,11.1,2023-02-03,Partially Filled,248.72,2023-02-22
+GOOG,67,Limit,118.94,Fill or Kill,Investment Account 7,8.09,2023-02-06,Pending,28.66,2023-02-18
+AAPL,45,Market,183.6,Day,Investment Account 8,14.35,2023-02-06,Partially Filled,207.92,2023-02-06
+AMZN,52,Market,240.81,Good till Cancelled,Investment Account 9,11.38,2023-02-06,Partially Filled,172.69,2023-02-25
+AAPL,100,Limit,162.27,Fill or Kill,Investment Account 10,19.86,2023-02-04,Pending,231.68,2023-02-03
+LPL,18,Stop Loss,113.56,Fill or Kill,Investment Account 1,5.16,2023-02-05,Partially Filled,113.57,2023-02-28
+TSLA,89,Stop Loss,1307.6,Day,Investment Account 2,8.84,2023-02-04,Partially Filled,1208.38,2023-02-01
+AAPL,37,Limit,241.12,Good till Cancelled,Investment Account 3,17.43,2023-02-03,Filled,260.35,2023-02-07
+IBM,46,Stop Loss,124.8,Good till Cancelled,Investment Account 4,5.49,2023-02-05,Pending,27.45,2023-02-01
+IBM,57,Limit,114.8,Good till Cancelled,Investment Account 5,11.11,2023-02-06,Filled,73.34,2023-02-25
+LPL,14,Market,72.29,Fill or Kill,Investment Account 6,7.02,2023-02-04,Pending,120.02,2023-02-22
+ORCL,66,Limit,135.57,Fill or Kill,Investment Account 7,15.9,2023-02-03,Partially Filled,115.49,2023-02-12
+GOOG,32,Market,86.08,Good till Cancelled,Investment Account 8,10.33,2023-02-04,Partially Filled,104.87,2023-02-12
+IBM,37,Stop Loss,115.16,Good till Cancelled,Investment Account 9,5.25,2023-02-05,Partially Filled,144.77,2023-02-10
+LPL,50,Limit,140.28,Fill or Kill,Investment Account 10,6.82,2023-02-05,Pending,37.87,2023-02-17
+AMZN,41,Stop Loss,162.5,Fill or Kill,Investment Account 1,9.61,2023-02-05,Partially Filled,214.36,2023-02-22
+LPL,81,Market,51.27,Day,Investment Account 2,8.38,2023-02-06,Filled,147.26,2023-02-03
+LPL,77,Limit,132.94,Day,Investment Account 3,7.54,2023-02-05,Filled,53.06,2023-02-06
+TSLA,63,Market,1145.8,Day,Investment Account 4,12.09,2023-02-05,Partially Filled,1265.17,2023-02-08
+TSLA,76,Stop Loss,1381.55,Good till Cancelled,Investment Account 5,15.88,2023-02-04,Partially Filled,1255.95,2023-02-25
+ORCL,25,Market,51.04,Day,Investment Account 6,7.66,2023-02-04,Filled,142.25,2023-02-12
+ORCL,88,Stop Loss,115.41,Good till Cancelled,Investment Account 7,19.12,2023-02-03,Partially Filled,146.04,2023-02-11
+IBM,52,Limit,104.43,Good till Cancelled,Investment Account 8,12.69,2023-02-06,Filled,97.64,2023-02-06
+ORCL,99,Limit,36.38,Fill or Kill,Investment Account 9,16.71,2023-02-04,Filled,128.8,2023-02-02
+AMZN,63,Market,158.4,Fill or Kill,Investment Account 10,16.82,2023-02-03,Pending,152.37,2023-02-28
+AAPL,59,Market,205.06,Good till Cancelled,Investment Account 1,10.07,2023-02-03,Pending,156.25,2023-02-27
+TSLA,73,Market,1160.75,Day,Investment Account 2,5.98,2023-02-06,Filled,1525.95,2023-02-05
+GOOG,8,Stop Loss,145.23,Good till Cancelled,Investment Account 3,12.67,2023-02-04,Partially Filled,59.55,2023-02-25
+IBM,74,Stop Loss,130.02,Fill or Kill,Investment Account 4,8.88,2023-02-04,Partially Filled,149.6,2023-02-13
+TSLA,26,Stop Loss,1057.91,Fill or Kill,Investment Account 5,17.99,2023-02-03,Filled,1578.27,2023-02-05
+GOOG,60,Limit,137.84,Day,Investment Account 6,10.36,2023-02-04,Filled,146.69,2023-02-21
+AAPL,55,Limit,180.79,Fill or Kill,Investment Account 7,11.17,2023-02-06,Pending,228.83,2023-02-28
+AMZN,41,Stop Loss,192.36,Fill or Kill,Investment Account 8,13.84,2023-02-05,Pending,251.28,2023-02-16
+IBM,74,Stop Loss,51.05,Good till Cancelled,Investment Account 9,11.33,2023-02-03,Filled,139.87,2023-02-20
+TSLA,89,Market,1104.94,Day,Investment Account 10,10.23,2023-02-03,Filled,1502.07,2023-02-22
+AAPL,59,Limit,230.25,Fill or Kill,Investment Account 1,10.71,2023-02-05,Partially Filled,246.83,2023-02-01
+ORCL,21,Stop Loss,39.55,Fill or Kill,Investment Account 2,8.32,2023-02-04,Pending,48.85,2023-02-20
+LPL,98,Limit,51.18,Fill or Kill,Investment Account 3,9.71,2023-02-03,Partially Filled,154.62,2023-02-03
+ORCL,42,Market,38.56,Day,Investment Account 4,6.96,2023-02-03,Filled,114.62,2023-02-21
+GOOG,39,Stop Loss,114.92,Good till Cancelled,Investment Account 5,10.4,2023-02-06,Pending,148.0,2023-02-22
+AAPL,68,Limit,153.61,Fill or Kill,Investment Account 6,13.92,2023-02-05,Pending,231.08,2023-02-25
+TSLA,55,Market,1372.43,Fill or Kill,Investment Account 7,8.58,2023-02-06,Pending,1271.15,2023-02-05
+AMZN,5,Stop Loss,246.1,Fill or Kill,Investment Account 8,13.07,2023-02-06,Pending,199.74,2023-02-11
+GOOG,70,Limit,30.21,Day,Investment Account 9,7.92,2023-02-03,Filled,90.89,2023-02-18
+AAPL,71,Market,153.81,Good till Cancelled,Investment Account 10,9.58,2023-02-03,Pending,217.15,2023-02-20
+ORCL,50,Limit,102.30,Day,Investment Account 1,9.99,2023-02-23,Filled,102.30,2023-02-21
+IBM,100,Market,145.25,Fill or Kill,Investment Account 1,12.99,2023-02-23,Filled,145.25,2023-02-21
+TSLA,25,Stop Loss,1095.00,Good till Cancelled,Investment Account 1,9.99,2023-02-23,Partially Filled,1095.00,2023-02-21
+LPL,200,Limit,38.50,Day,Investment Account 1,9.99,2023-02-23,Filled,38.50,2023-02-21
+SAP,75,Market,125.80,Immediate or Cancel,Investment Account 1,12.99,2023-02-23,Filled,125.80,2023-02-21
+IBM,150,Limit,144.75,Day,Investment Account 1,9.99,2023-02-23,Filled,144.75,2023-02-21
+ORCL,25,Market,103.50,Fill or Kill,Investment Account 1,12.99,2023-02-23,Filled,103.50,2023-02-21
+LPL,100,Stop Loss,36.00,Good till Cancelled,Investment Account 1,9.99,2023-02-23,Partially Filled,36.00,2023-02-21
+TSLA,10,Limit,1125.00,Day,Investment Account 1,9.99,2023-02-23,Filled,1125.00,2023-02-21
+SAP,50,Market,127.50,Immediate or Cancel,Investment Account 1,12.99,2023-02-23,Filled,127.50,2023-02-21
+IBM,75,Market,144.80,Fill or Kill,Investment Account 1,9.99,2023-02-23,Filled,144.80,2023-02-21
+LPL,50,Limit,37.20,Day,Investment Account 1,9.99,2023-02-23,Filled,37.20,2023-02-21
+ORCL,100,Stop Loss,101.75,Good till Cancelled,Investment Account 1,12.99,2023-02-23,Filled,101.75,2023-02-21
+SAP,25,Market,126.00,Immediate or Cancel,Investment Account 1,9.99,2023-02-23,Filled,126.00,2023-02-21
+TSLA,5,Limit,1130.00,Day,Investment Account 1,12.99,2023-02-23,Filled,1130.00,2023-02-21
+AAPL,50,Limit,170.00,Day,Investment Account 2,9.99,2023-02-23,Filled,170.00,2023-02-21
+GOOG,25,Market,2400.50,Immediate or Cancel,Investment Account 2,12.99,2023-02-23,Filled,2400.50,2023-02-21
+AMZN,10,Stop Loss,3150.00,Good till Cancelled,Investment Account 2,9.99,2023-02-23,Partially Filled,3150.00,2023-02-21
+AAPL,25,Market,175.00,Fill or Kill,Investment Account 2,9.99,2023-02-23,Filled,175.00,2023-02-21
+GOOG,50,Limit,2405.50,Day,Investment Account 2,9.99,2023-02-23,Filled,2405.50,2023-02-21
+AMZN,5,Market,3199.00,Immediate or Cancel,Investment Account 2,12.99,2023-02-23,Filled,3199.00,2023-02-21
+AAPL,75,Market,177.50,Fill or Kill,Investment Account 2,9.99,2023-02-23,Filled,177.50,2023-02-21
+GOOG,100,Stop Loss,2380.00,Good till Cancelled,Investment Account 2,9.99,2023-02-23,Partially Filled,2380.00,2023-02-21
+AMZN,15,Limit,3175.00,Day,Investment Account 2,12.99,2023-02-23,Filled,3175.00,2023-02-21
+AAPL,100,Limit,172.50,Day,Investment Account 2,9.99,2023-02-23,Filled,172.50,2023-02-21
+GOOG,75,Market,2398.50,Immediate or Cancel,Investment Account 2,9.99,2023-02-23,Filled,2398.50,2023-02-21
+AMZN,20,Stop Loss,3160.00,Good till Cancelled,Investment Account 2,12.99,2023-02-23,Partially Filled,3160.00,2023-02-21
+AAPL,50,Market,178.50,Fill or Kill,Investment Account 2,9.99,2023-02-23,Filled,178.50,2023-02-21
